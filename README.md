@@ -172,3 +172,6 @@ nothing (score = 0.00000)
 
     python classify_webcam.py
     
+    
+Note : The dataset we use consists of approximately 87000 images. We were rejected while uploading our dataset on GitHub. That's why we share our drive link here.
+
