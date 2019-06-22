@@ -2,8 +2,6 @@
 
 BBM416 - Computer Vision Course Project
 
-Assignment 3
-
 ### Authors
 Ayhan YÜNT - 21228965
 
